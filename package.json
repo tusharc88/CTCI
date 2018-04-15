@@ -1,0 +1,21 @@
+{
+  "name": "CTCI",
+  "version": "1.0.0",
+  "description":
+    "Solving Problems from Cracking the Coding Interview (6th Edition).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tusharc88/CTCI.git"
+  },
+  "keywords": [],
+  "author": "Tushar Chhibber",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tusharc88/CTCI/issues"
+  },
+  "homepage": "https://github.com/tusharc88/CTCI#readme"
+}
