@@ -20,3 +20,5 @@ function removeDups(head) {
 
   return head;
 }
+
+module.exports = removeDups;
